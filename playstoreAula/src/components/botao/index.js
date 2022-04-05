@@ -37,7 +37,7 @@ export default function botao({logo,texto,cor,logo2,texto2,cor2}){
         botoes:{
             padding:5,
             marginHorizontal:10,
-            widht:'45%',
+            width:'45%',
             alignItens: 'center',
             justifyContent: 'flex-start',
 
